@@ -11,13 +11,16 @@ brew install --cask spotify
 brew install --cask visual-studio-code
 brew install --cask docker
 brew install --cask robo-3t
+brew install --cask dbeaver-community
 brew install --cask slack
 brew install --cask messenger
 brew install --cask whatsapp
 brew install --cask discord
 brew install --cask notion
+brew install --cask firefox
+brew install --cask insomnia
+brew install golang
 brew install node
-brew install nvm
 brew install npm
 npm -g tsc
 npm -g nodemon
