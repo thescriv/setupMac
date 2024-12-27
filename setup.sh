@@ -10,6 +10,7 @@ brew install docker
 brew install --cask spotify
 brew install --cask visual-studio-code
 brew install --cask docker
+brew install --cask slack
 brew install --cask robo-3t
 brew install --cask dbeaver-community
 brew install --cask slack
